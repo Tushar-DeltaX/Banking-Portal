@@ -1,4 +1,4 @@
-# NEXORA BANK — Functional UI Prototype
+# NEXORA BANK — Functional UI Website
 
 A frontend-only banking simulation built on the approved NEXORA visual direction: espresso/charcoal surfaces, warm amber accents and emerald positive states.
 
